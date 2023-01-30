@@ -36,6 +36,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ## coad:
+```
 /* Home Page */
 position: relative;
 width: 360px;
@@ -147,6 +148,7 @@ height: 125px;
 left: 117px;
 top: 91px;
 background: url(logo.png);
+```
 
 ## OUTPUT:
 output1:
